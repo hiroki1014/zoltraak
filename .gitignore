@@ -169,3 +169,6 @@ zoltraak-dev/
 assets/videos/480p15/partial_movie_files/
 
 SourceSageAssets
+
+# Ignore test_file.md in project root
+test_file.md
